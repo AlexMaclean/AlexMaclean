@@ -1,6 +1,6 @@
 # Alex MacLean
 
-
+I'm a 3rd year computer science major at Cal Poly San Luis Obispo. I'm from Seattle, WA and enjoy hiking and triathlon.
 
 ## Skills
 
