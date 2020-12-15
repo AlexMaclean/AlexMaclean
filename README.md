@@ -1,5 +1,14 @@
 # Alex MacLean
 
+
+
+## Skills
+
+- **Basic Programming Knowledge:** C#, Java, Python, Racket, R, Elixir, BASH, and ANSI C
+- **Version Control Experience:** Git, GitHub, Phabricator, Subversion
+- **Web Development:** Html, CSS, Sass, and JavaScript, Typescript, React
+- **DevOPs Knowledge:** Docker and Terraform
+
 <!--
 **AlexMaclean/AlexMaclean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
